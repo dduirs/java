@@ -1,5 +1,5 @@
 public class Main {
-    double pi = 3.1416;
+    final double pi = 3.1416;
     public static void main(String[] args) {
         new Main().mostrarPI();
     }
